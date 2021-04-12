@@ -1,0 +1,9 @@
+{
+	"name": "testshell",
+	"dockerComposeFile":"docker-compose.yml",
+	"service": "testshell",
+	"workspaceFolder": "/workspace",
+	"settings": {
+		"terminal.integrated.shell.linux": "/bin/ash"
+	},
+}
